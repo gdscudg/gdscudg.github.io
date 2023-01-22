@@ -1,13 +1,14 @@
 # Site settings
 name: Deploy Jekyll with GitHub Pages dependencies preinstalled
 title:
-email:
+email: "gdscudg@gmail.com"
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "https://gdscudg.github.io/"
 url: "" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+twitter_username: gdscudg
+github_username: gdscudg
+instagram_username: gdsc_udg
 
 # Build settings
 markdown: kramdown
